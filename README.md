@@ -1,12 +1,9 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Lucas !
 
 ## 🧑‍💻 About Me
 Passionate about technology and development, I love building and learning new things every day.
 
 ## 🎓 Education & Experience
-- 🎓 **Education:** [Your Degree] - [Your University]
-- 💼 **Work:** [Your Job Title] - [Your Company]
-- 📌 **Other Experience:** [Any Other Relevant Experience]
 
 ## 🛠 Skills
 - 💻 **Programming:** [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://www.java.com/)
@@ -24,7 +21,6 @@ Passionate about technology and development, I love building and learning new th
 
 ## 🎯 Interests
 - 🎮 Gaming
-- 📚 Reading
 - 🚴‍♂️ Cycling
 - 🌍 Traveling
 

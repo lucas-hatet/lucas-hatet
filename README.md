@@ -1,6 +1,9 @@
-# 👋 Hello, I'm Lucas !
+# Lucas HÂTET
 
-## 🧑‍💻 About Me
+## IT Development Student
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-hatet-69965a311/)
+
+
 
 
 

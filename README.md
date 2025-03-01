@@ -19,7 +19,7 @@ Graduated with a French general baccalaureate in 2023, I am currently a student 
 **Design**  
 
 **Other**  
-![Photoshop](https://img.shields.io/badge/-Photoshop-942C86?style=flat-square&logo=photopea)
+![Photoshop](https://img.shields.io/badge/-Photoshop-001e36?style=flat-square&logo=photopea&logoColor=white)
 
 ### 🌍 Languages
 * French

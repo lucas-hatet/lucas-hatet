@@ -24,7 +24,7 @@ Graduated with a French general baccalaureate in 2023, I am currently a student 
 ![C#](https://img.shields.io/badge/-C%23-942C86?style=flat-square&logo=cplusplus)
 ![XAML](https://img.shields.io/badge/-XAML-1657BD?style=flat-square&logo=xml)
 
-* *Game developpement*  
+* *Game development*  
 ![C#](https://img.shields.io/badge/-C%23-942C86?style=flat-square&logo=cplusplus)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 

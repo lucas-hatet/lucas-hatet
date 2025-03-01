@@ -21,22 +21,27 @@ Graduated with a French general baccalaureate in 2023, I am currently a student 
     ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
     
 * *.NET*  
-![C#](https://img.shields.io/badge/-C%23-942C86?style=flat-square&logo=cplusplus) ![XAML](https://img.shields.io/badge/-XAML-1657BD?style=flat-square&logo=xml)
+![C#](https://img.shields.io/badge/-C%23-942C86?style=flat-square&logo=cplusplus)
+![XAML](https://img.shields.io/badge/-XAML-1657BD?style=flat-square&logo=xml)
 
 * *Game developpement*  
-![C#](https://img.shields.io/badge/-C%23-942C86?style=flat-square&logo=cplusplus) ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
+![C#](https://img.shields.io/badge/-C%23-942C86?style=flat-square&logo=cplusplus)
+![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 
 * *Other*  
 ![Python](https://img.shields.io/badge/-Python-3675A6?style=flat-square&logo=Python&logoColor=white)
 
 **Database**
 
-![Postgres](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-006849?style=flat-square&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-006849?style=flat-square&logo=mongodb&logoColor=white)
 
 
 **Design & 3D** 
 
-![Photoshop](https://img.shields.io/badge/-Photoshop-001e36?style=flat-square&logo=photopea&logoColor=white)![Davinci Resolve](https://img.shields.io/badge/-Davinci-37474f?style=flat-square&logo=davinciresolve&logoColor=white)![Blender](https://img.shields.io/badge/-Blender-ea7600?style=flat-square&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-001e36?style=flat-square&logo=photopea&logoColor=white) 
+![Davinci Resolve](https://img.shields.io/badge/-Davinci-37474f?style=flat-square&logo=davinciresolve&logoColor=white) 
+![Blender](https://img.shields.io/badge/-Blender-ea7600?style=flat-square&logo=blender&logoColor=white)
 
 **Other**  
 

@@ -7,7 +7,7 @@ Graduated with a French general baccalaureate in 2023, I am currently a student 
 
 ### 🚀 Activities
 * 2nd year of a Bachelor's in Computer Science, Application Development path (BUT Informatique - RACDV).
-* Learning to use 3D tools (Blender, Three.js) and game engines (Roblox Studio, Unity).
+* Learning to use web tools (React, Three, TypeScript) and 3D tools (Blender).
 
 ### 📚 Skills
 
@@ -19,7 +19,7 @@ Graduated with a French general baccalaureate in 2023, I am currently a student 
 **Design**  
 
 **Other**  
-![Photoshop](https://img.shields.io/badge/-Photoshop-001e36?style=flat-square&logo=photopea&logoColor=white) . ![Davinci Resolve](https://img.shields.io/badge/-Davinci-001e36?style=flat-square&logo=davinciresolve&logoColor=white) . ![Blender](https://img.shields.io/badge/-Blender-ea7600?style=flat-square&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-001e36?style=flat-square&logo=photopea&logoColor=white) . ![Davinci Resolve](https://img.shields.io/badge/-Davinci-37474f?style=flat-square&logo=davinciresolve&logoColor=white) . ![Blender](https://img.shields.io/badge/-Blender-ea7600?style=flat-square&logo=blender&logoColor=white)
 
 ### 🌍 Languages
 * French

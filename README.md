@@ -50,5 +50,3 @@ Graduated with a French general baccalaureate in 2023, I am currently a student 
 ### 🌍 Languages
 * French
 * English
-
-### 🎯 Interests

@@ -9,17 +9,11 @@ Graduated with a French general baccalaureate in 2023, I am currently a student 
 * 2nd year of a Bachelor's in Computer Science, Application Development path (BUT Informatique - RACDV).
 * Learning to use web tools (React, Three, TypeScript) and 3D tools (Blender).
 
-### 📚 Skills
-
-**Development**
-
+### 📚 Skills  
+**Development**  
 * *Web*  
-    ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-    ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-    ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-    ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-    
+    ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
+    ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 * *.NET*  
 ![C#](https://img.shields.io/badge/-C%23-942C86?style=flat-square&logo=cplusplus)
 ![XAML](https://img.shields.io/badge/-XAML-1657BD?style=flat-square&logo=xml)

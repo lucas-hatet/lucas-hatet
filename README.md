@@ -7,7 +7,7 @@ Graduated with a French general baccalaureate in 2023, I am currently a student 
 
 ### 🚀 Activities
 * 2nd year of a Bachelor's in Computer Science, Application Development path (BUT Informatique - RACDV).
-* Participating in the developement of an mobile application (Olyfit)
+* Participating in the developement of a mobile application (Olyfit)
 * Learning to use video games tools (Unity, UE5)
 
 ### 📚 Skills  
